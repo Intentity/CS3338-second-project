@@ -1,0 +1,35 @@
+commit 771d9e3de1f5f2a3444f0aeafcff8dfe4e260d5c
+Author: Intentity <rehanaabdullah1976@gmail.cmo>
+Date:   Wed Sep 3 15:48:19 2025 -0700
+
+    Added Readme to the repo
+
+commit 6c3a91f51e9c842b9c4036a0c51d09ae4647179b
+Author: Intentity <rehanaabdullah1976@gmail.cmo>
+Date:   Wed Sep 3 15:46:15 2025 -0700
+
+    Added my favorite movie and FYI BEST SPIDEMAN
+
+commit 5f24cd136e802881247f18b3b6c4c91845e6c34c
+Author: Intentity <rehanaabdullah1976@gmail.cmo>
+Date:   Wed Sep 3 15:42:00 2025 -0700
+
+    Added my fav food to index.html
+
+commit 011e6a412bf13c1d03b9cc58c14fbe91d095a456
+Author: Intentity <rehanaabdullah1976@gmail.cmo>
+Date:   Wed Sep 3 15:35:18 2025 -0700
+
+    Added readme.md
+
+commit ef28350a452acf600b9dd741d1ea21bc15337884
+Author: Intentity <rehanaabdullah1976@gmail.cmo>
+Date:   Wed Sep 3 15:19:10 2025 -0700
+
+    Answered the questions
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
